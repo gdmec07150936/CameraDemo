@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraDemo</string>
+    <string name="takephoto">拍照</string>
+</resources>
